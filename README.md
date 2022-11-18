@@ -4,4 +4,4 @@ Integrantes: Graziela Rudinger e Yuri Valeixo
 
 Turma: BSI - Quarta - Noite
 
-Dataset: https://www.kaggle.com/competitions/titanic/data
+Link do Dataset: https://www.kaggle.com/competitions/titanic/data
