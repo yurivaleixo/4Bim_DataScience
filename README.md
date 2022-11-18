@@ -1,1 +1,1 @@
-# Aprendizado-de-M-quina-Supervisionado
+# Aprendizado-de-Máquina-Supervisionado
