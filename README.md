@@ -8,4 +8,4 @@ Link do Dataset: https://www.kaggle.com/competitions/titanic/data
 
 Dicionário DataSet: https://www.kaggle.com/competitions/titanic/data (Está na descrição da página)
 
-link repositório: https://github.com/yurivaleixo/4Bim_DataScience.git
+Link repositório: https://github.com/yurivaleixo/4Bim_DataScience.git
